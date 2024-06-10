@@ -1,0 +1,4 @@
+# .npmignore
+# /test
+.idea
+node_modules
